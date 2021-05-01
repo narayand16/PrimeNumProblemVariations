@@ -1,6 +1,6 @@
 # PrimeNumProblemVariations
 
-This repository is contains the solutions to various problems related to prime numbers.
+This repository contains the solutions to various problems related to prime numbers.
 
 For Example:
 
