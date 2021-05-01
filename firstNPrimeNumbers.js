@@ -23,5 +23,10 @@ function generatePrimeNumbers(num) {
     }
     return primeList;
 }
-
+console.log(generatePrimeNumbers(5));
+// [ 2, 3, 5, 7, 11 ]
 console.log(generatePrimeNumbers(8));
+// [
+//     2,  3,  5,  7,
+//     11, 13, 17, 19
+//   ]
